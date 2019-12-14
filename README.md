@@ -1,1 +1,13 @@
-oh yeah
+##frontend
+- robert
+- cedric
+- dominic
+- matthew
+- cole
+- theo
+
+##backend
+- alex
+- riley
+- ian
+- tariq
